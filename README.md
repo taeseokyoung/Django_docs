@@ -1,5 +1,5 @@
 # 장고 공식문서 스터디
-## _Django docs Study_
+### _Django docs Study_
 
 [![Django](https://i.ibb.co/HgsZbdB/django.png)](https://docs.djangoproject.com/en/4.2/)
 
